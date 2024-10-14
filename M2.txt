@@ -1,2 +1,0 @@
-
-[FBAN/FB4A;FBAV/342.0.0.37.116;FBBV/191732943;FBDM/{density=3.0,width=1440,height=2960};FBLC/en_GB;FBCR/AT&T;FBMF/Google;FBBD/Google;FBPN/com.facebook.katana;FBDV/Pixel-XL;FBSV/9.0.0;FBOP/1;FBCA/arm64-v8a:armeabi-v7a;]
