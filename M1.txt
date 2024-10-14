@@ -1,1 +1,0 @@
-[FBAN/FB4A;FBAV/341.0.0.25.119;FBBV/190641274;FBDM/{density=2.0,width=1080,height=1920};FBLC/en_US;FBCR/Verizon;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/Samsung-SM-G960U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
